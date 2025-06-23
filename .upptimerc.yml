@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /lighthouse-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.google.com/imgres?q=lighthouse%20hiring%20logo&imgurl=https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D0BAQFTnY8SaTJ1Jg%2Fcompany-logo_200_200%2Fcompany-logo_200_200%2F0%2F1733240982437%2Flighthouse_hiring_innovations_logo%3Fe%3D2147483647%26v%3Dbeta%26t%3D9lS-jiorRpzbcyQY7kGeQwVz0-HSBJCtspqz-lH7F98&imgrefurl=https%3A%2F%2Fca.linkedin.com%2Fcompany%2Flighthouse-hiring-innovations&docid=BNiNf4a_Ho0QlM&tbnid=kJRjtTzTuUd3tM&vet=12ahUKEwjesb2614eOAxWOHNAFHRy5K-oQM3oECBgQAA..i&w=200&h=200&hcb=2&ved=2ahUKEwjesb2614eOAxWOHNAFHRy5K-oQM3oECBgQAA
   name: Lighthouse Status Website
   introTitle: "**Lighthouse** Services Server Status"
   introMessage: All **Lighthosue** services and their statuses will be monitored here
