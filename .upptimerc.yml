@@ -1,16 +1,16 @@
 # Change these first
 owner: se95lopez # Your GitHub organization or username, where this repository lives
-repo: lighthouse-upptime # The name of this repository
+repo: lighthouse-uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Lighthouse RES
+    url: https://res-test-586746141603.us-central1.run.app/health
+  - name: Lighthouse RPS
+    url: https://rps-async-test-586746141603.us-central1.run.app
+  - name: Lighthouse Document Converter
+    url: https://documenttotext-586746141603.us-central1.run.app/dummy
+  - name: Lighthouse User Management
+    url: https://supabase-user-functions-586746141603.us-central1.run.app/health
   - name: IPv6 test
     url: forwardemail.net
     port: 80
