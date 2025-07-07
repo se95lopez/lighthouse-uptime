@@ -6,7 +6,7 @@ sites:
   - name: Lighthouse RES
     url: https://res-test-586746141603.us-central1.run.app/health
   - name: Lighthouse RPS
-    url: https://rps-async-test-586746141603.us-central1.run.app/health
+    url: https://rps-health-proxy-586746141603.us-central1.run.app
   - name: Lighthouse Document Converter
     url: https://documenttotext-586746141603.us-central1.run.app/dummy
   - name: Lighthouse User Management
