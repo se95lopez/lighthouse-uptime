@@ -11,11 +11,6 @@ sites:
     url: https://documenttotext-586746141603.us-central1.run.app/dummy
   - name: Lighthouse User Management
     url: https://supabase-user-functions-586746141603.us-central1.run.app/health
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
