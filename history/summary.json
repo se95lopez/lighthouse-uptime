@@ -57,9 +57,9 @@
     "url": "https://documenttotext-586746141603.us-central1.run.app/dummy",
     "icon": "https://icons.duckduckgo.com/ip3/documenttotext-586746141603.us-central1.run.app.ico",
     "slug": "lighthouse-document-converter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -68,7 +68,9 @@
     "timeWeek": 4404,
     "timeMonth": 3552,
     "timeYear": 2777,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-21": 0
+    }
   },
   {
     "name": "Lighthouse User Management",
