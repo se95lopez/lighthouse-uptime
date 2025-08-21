@@ -57,19 +57,19 @@
     "url": "https://documenttotext-586746141603.us-central1.run.app/dummy",
     "icon": "https://icons.duckduckgo.com/ip3/documenttotext-586746141603.us-central1.run.app.ico",
     "slug": "lighthouse-document-converter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2777,
-    "timeDay": 154,
-    "timeWeek": 4404,
-    "timeMonth": 3552,
-    "timeYear": 2777,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 2884,
+    "timeDay": 5095,
+    "timeWeek": 5108,
+    "timeMonth": 3755,
+    "timeYear": 2884,
     "dailyMinutesDown": {
-      "2025-08-21": 0
+      "2025-08-21": 15
     }
   },
   {
