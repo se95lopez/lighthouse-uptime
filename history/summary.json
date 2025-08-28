@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 347,
-    "timeDay": 106,
+    "time": 345,
+    "timeDay": 192,
     "timeWeek": 122,
-    "timeMonth": 117,
-    "timeYear": 347,
+    "timeMonth": 119,
+    "timeYear": 345,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rps-health-proxy-586746141603.us-central1.run.app.ico",
     "slug": "lighthouse-rps",
     "status": "up",
-    "uptime": "79.34%",
+    "uptime": "79.63%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "79.34%",
-    "time": 1966,
-    "timeDay": 3579,
-    "timeWeek": 5499,
-    "timeMonth": 3389,
-    "timeYear": 1966,
+    "uptimeYear": "79.63%",
+    "time": 1983,
+    "timeDay": 3330,
+    "timeWeek": 3816,
+    "timeMonth": 3387,
+    "timeYear": 1983,
     "dailyMinutesDown": {
       "2025-08-21": 19,
       "2025-07-07": 113,
@@ -60,14 +60,14 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.85%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 3017,
-    "timeDay": 2009,
-    "timeWeek": 5026,
-    "timeMonth": 4396,
-    "timeYear": 3017,
+    "time": 3111,
+    "timeDay": 10169,
+    "timeWeek": 4248,
+    "timeMonth": 4571,
+    "timeYear": 3111,
     "dailyMinutesDown": {
       "2025-08-21": 15
     }
@@ -77,7 +77,7 @@
     "url": "https://supabase-user-functions-586746141603.us-central1.run.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/supabase-user-functions-586746141603.us-central1.run.app.ico",
     "slug": "lighthouse-user-management",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -85,9 +85,11 @@
     "uptimeYear": "100.00%",
     "time": 1782,
     "timeDay": 1958,
-    "timeWeek": 2801,
+    "timeWeek": 2430,
     "timeMonth": 2437,
     "timeYear": 1782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-28": 0
+    }
   }
 ]
