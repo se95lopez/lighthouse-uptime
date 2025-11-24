@@ -81,19 +81,19 @@
     "url": "https://supabase-user-functions-586746141603.us-central1.run.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/supabase-user-functions-586746141603.us-central1.run.app.ico",
     "slug": "lighthouse-user-management",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2097,
-    "timeDay": 2548,
-    "timeWeek": 2026,
-    "timeMonth": 2026,
-    "timeYear": 2097,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 2081,
+    "timeDay": 1827,
+    "timeWeek": 1862,
+    "timeMonth": 1862,
+    "timeYear": 2081,
     "dailyMinutesDown": {
-      "2025-11-24": 0
+      "2025-11-24": 25
     }
   },
   {
