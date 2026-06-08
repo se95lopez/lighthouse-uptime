@@ -1,7 +1,7 @@
 url: https://rps-health-proxy-586746141603.us-central1.run.app
-status: down
-code: 503
-responseTime: 10157
-lastUpdated: 2026-06-08T21:04:04.297Z
+status: up
+code: 200
+responseTime: 161
+lastUpdated: 2026-06-08T22:44:17.964Z
 startTime: 2025-06-23T13:29:13.318Z
 generator: Upptime <https://github.com/upptime/upptime>
