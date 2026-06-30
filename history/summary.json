@@ -14,7 +14,7 @@
     "timeDay": 175,
     "timeWeek": 100,
     "timeMonth": 98,
-    "timeYear": 196,
+    "timeYear": 197,
     "dailyMinutesDown": {}
   },
   {
@@ -22,16 +22,16 @@
     "url": "https://rps-health-proxy-586746141603.us-central1.run.app",
     "icon": "https://icons.duckduckgo.com/ip3/rps-health-proxy-586746141603.us-central1.run.app.ico",
     "slug": "lighthouse-rps",
-    "status": "down",
-    "uptime": "96.23%",
-    "uptimeDay": "92.45%",
-    "uptimeWeek": "98.19%",
-    "uptimeMonth": "98.52%",
+    "status": "up",
+    "uptime": "96.21%",
+    "uptimeDay": "86.84%",
+    "uptimeWeek": "98.12%",
+    "uptimeMonth": "98.33%",
     "uptimeYear": "98.16%",
-    "time": 3026,
-    "timeDay": 6861,
-    "timeWeek": 2951,
-    "timeMonth": 3336,
+    "time": 3018,
+    "timeDay": 5209,
+    "timeWeek": 2953,
+    "timeMonth": 3266,
     "timeYear": 3139,
     "dailyMinutesDown": {
       "2025-07-07": 113,
@@ -52,7 +52,7 @@
       "2026-06-19": 99,
       "2026-06-22": 79,
       "2026-06-23": 75,
-      "2026-06-30": 108
+      "2026-06-30": 189
     }
   },
   {
@@ -70,7 +70,7 @@
     "timeDay": 44361,
     "timeWeek": 8800,
     "timeMonth": 6192,
-    "timeYear": 2916,
+    "timeYear": 2925,
     "dailyMinutesDown": {
       "2025-08-21": 15
     }
@@ -90,7 +90,7 @@
     "timeDay": 5844,
     "timeWeek": 3611,
     "timeMonth": 3899,
-    "timeYear": 2352,
+    "timeYear": 2357,
     "dailyMinutesDown": {
       "2025-11-24": 25,
       "2025-12-05": 31,
