@@ -22,17 +22,17 @@
     "url": "https://rps-health-proxy-586746141603.us-central1.run.app",
     "icon": "https://icons.duckduckgo.com/ip3/rps-health-proxy-586746141603.us-central1.run.app.ico",
     "slug": "lighthouse-rps",
-    "status": "down",
-    "uptime": "97.03%",
-    "uptimeDay": "83.78%",
-    "uptimeWeek": "97.68%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.81%",
-    "time": 2918,
-    "timeDay": 7343,
-    "timeWeek": 4933,
-    "timeMonth": 3811,
-    "timeYear": 2915,
+    "status": "up",
+    "uptime": "97.00%",
+    "uptimeDay": "67.65%",
+    "uptimeWeek": "95.38%",
+    "uptimeMonth": "98.94%",
+    "uptimeYear": "99.76%",
+    "time": 2938,
+    "timeDay": 8472,
+    "timeWeek": 5626,
+    "timeMonth": 4055,
+    "timeYear": 2942,
     "dailyMinutesDown": {
       "2025-11-21": 15,
       "2026-04-16": 40,
@@ -42,7 +42,7 @@
       "2026-06-22": 79,
       "2026-06-23": 75,
       "2026-06-30": 189,
-      "2026-10-17": 234
+      "2026-10-17": 466
     }
   },
   {
